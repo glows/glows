@@ -1,4 +1,5 @@
 ###
+
 😄Hi  
 blog: [glows](https://glows.github.io)
 
@@ -20,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**<a href="https://github.com/minibear2333/minibear2333/actions" target="_blank">Actions</a>每日自动更新**
+
 <table>
 <tr>
 
@@ -30,7 +33,7 @@ Here are some ideas to get you started:
 <!-- blog starts -->
 
 - <a href='https://glows.github.io/_posts/2020-11-04-docker-checklist/' target='_blank'>Docker Checklist</a> - 2020-11-04
-- <a href='https://glows.github.io/_posts/2020-10-13-typescript%E5%AD%A6%E4%B9%A0/' target='_blank'>typescript学习</a> - 2020-10-13
+- <a href='https://glows.github.io/_posts/2020-10-13-typescript%E5%AD%A6%E4%B9%A0/' target='_blank'>typescript 学习</a> - 2020-10-13
 - <a href='https://glows.github.io/_posts/2020-10-12-sql-%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/' target='_blank'>sql 基本命令</a> - 2020-10-12
 - <a href='https://glows.github.io/_posts/2020-02-14-node-%E5%90%8E%E7%AB%AF%E5%AE%9E%E8%B7%B5/' target='_blank'>node 后端实践</a> - 2020-09-14
 - <a href='https://glows.github.io/_posts/2020-08-27%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/' target='_blank'>前端常用工具方法</a> - 2020-08-27
