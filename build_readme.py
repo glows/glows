@@ -29,6 +29,18 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
+
+def fetch_blog_entries():
+    entries = feedparser.parse("https://glows.github.io/index.xml")["entries"]
+    return [
+        {
+            "title": entry["title"],
+            "url": entry["link"].split("#")[0],
+            "published": formatRFC822Time(entry["published"]),
+        }
+        for entry in entries
+    ]
+
 def fetch_douban():
     entries = feedparser.parse("https://www.douban.com/feed/people/65855501/interests")["entries"]
     return [
@@ -41,17 +53,6 @@ def fetch_douban():
     ]
 
 
-def fetch_blog_entries():
-    entries = feedparser.parse("https://glows.github.io/index.xml")["entries"]
-    return [
-        {
-            "title": entry["title"],
-            "url": entry["link"].split("#")[0],
-            "published": formatRFC822Time(entry["published"]),
-        }
-        for entry in entries
-    ]
-    
     
 if __name__ == "__main__":
     readme = root / "README.md"
