@@ -54,7 +54,7 @@ def fetch_blog_entries():
     
     
 if __name__ == "__main__":
-    readme = root / "NEW.md"
+    readme = root / "README.md"
     
     doubans = fetch_douban()[:5]
     entries = fetch_blog_entries()[:5]
