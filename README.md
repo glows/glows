@@ -1,10 +1,9 @@
 ###
 
 😄Hi  
-blog: [glows](https://glows.github.io)
+blog: [glows](https://glows.github.io)  
+contact [📫](duncyun@gmail.com)
 
-contact 📫
-duncyun@gmail.com
 
 <!--
 **glows/glows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**<a href="https://github.com/minibear2333/minibear2333/actions" target="_blank">Actions</a>每日自动更新**
+**<a href="https://github.com/glows/glows/actions" target="_blank">Actions每日自动更新 : </a>**
 
 <table>
 <tr>
