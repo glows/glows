@@ -39,8 +39,8 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git commit --global user.email ""
-        git commit --global user.user ""
+        git commit --global user.email "duncyun@gmail.com"
+        git commit --global user.name "glows"
         git pull
         git add -A
         git commit -m "UPDATE CONTENT" || exit 0
