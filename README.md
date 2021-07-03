@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
-- <a href='https://book.douban.com/subject/3122531/' target='_blank'>[读过]銃夢01</a> - 2021-07-02
-- <a href='https://book.douban.com/subject/3122534/' target='_blank'>[读过]銃夢02</a> - 2021-07-02
-- <a href='https://book.douban.com/subject/1361337/' target='_blank'>[想读]樹上的男爵</a> - 2021-07-02
-- <a href='https://book.douban.com/subject/3122535/' target='_blank'>[读过]銃夢03</a> - 2021-07-02
-- <a href='https://book.douban.com/subject/11597324/' target='_blank'>[读过]游戏玩家</a> - 2021-07-02
+- <a href='https://book.douban.com/subject/1345161/' target='_blank'>[想读]理性的儀式</a> - 2021-07-03
+- <a href='https://book.douban.com/subject/1355221/' target='_blank'>[想读]Rational Ritual</a> - 2021-07-03
+- <a href='https://book.douban.com/subject/1280205/' target='_blank'>[想读]宗教经验种种</a> - 2021-07-03
+- <a href='https://book.douban.com/subject/1799123/' target='_blank'>[想读]The House of Rothschild</a> - 2021-07-03
+- <a href='https://book.douban.com/subject/25752043/' target='_blank'>[想读]信息简史</a> - 2021-07-03
 
 <!-- douban ends -->
 
