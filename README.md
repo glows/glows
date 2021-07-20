@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/4813645/' target='_blank'>[看过]橡皮轮胎杀手</a> - 2021-07-19
 - <a href='https://book.douban.com/subject/25834607/' target='_blank'>[想读]自由的进化</a> - 2021-07-10
 - <a href='https://book.douban.com/subject/27180479/' target='_blank'>[想读]奥古斯都</a> - 2021-07-04
 - <a href='https://book.douban.com/subject/1345161/' target='_blank'>[想读]理性的儀式</a> - 2021-07-03
 - <a href='https://book.douban.com/subject/1355221/' target='_blank'>[想读]Rational Ritual</a> - 2021-07-03
-- <a href='https://book.douban.com/subject/1280205/' target='_blank'>[想读]宗教经验种种</a> - 2021-07-03
 
 <!-- douban ends -->
 
