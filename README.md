@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
-- <a href='http://movie.douban.com/subject/30317630/' target='_blank'>[想看]坏种</a> - 2021-08-10
-- <a href='http://movie.douban.com/subject/1432699/' target='_blank'>[想看]琳达！琳达！琳达！</a> - 2021-08-04
-- <a href='http://movie.douban.com/subject/1292396/' target='_blank'>[看过]香港制造</a> - 2021-07-24
-- <a href='http://movie.douban.com/subject/1295815/' target='_blank'>[看过]那年夏天，宁静的海</a> - 2021-07-20
-- <a href='http://movie.douban.com/subject/4813645/' target='_blank'>[看过]橡皮轮胎杀手</a> - 2021-07-19
+- <a href='http://movie.douban.com/subject/1302827/' target='_blank'>[想看]人工智能</a> - 2021-08-25
+- <a href='http://movie.douban.com/subject/1301726/' target='_blank'>[想看]兵临城下</a> - 2021-08-25
+- <a href='http://movie.douban.com/subject/1308754/' target='_blank'>[想看]天空上尉与明日世界</a> - 2021-08-25
+- <a href='http://movie.douban.com/subject/1887455/' target='_blank'>[想看]足迹</a> - 2021-08-25
+- <a href='http://movie.douban.com/subject/2265778/' target='_blank'>[想看]重生男人</a> - 2021-08-25
 
 <!-- douban ends -->
 
