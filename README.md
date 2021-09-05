@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/35563161/' target='_blank'>[想读]历史的逻辑（修订译本）</a> - 2021-09-04
+- <a href='http://movie.douban.com/subject/34863472/' target='_blank'>[想看]美好的世界</a> - 2021-09-04
 - <a href='http://movie.douban.com/subject/1302827/' target='_blank'>[想看]人工智能</a> - 2021-08-25
 - <a href='http://movie.douban.com/subject/1301726/' target='_blank'>[想看]兵临城下</a> - 2021-08-25
 - <a href='http://movie.douban.com/subject/1308754/' target='_blank'>[想看]天空上尉与明日世界</a> - 2021-08-25
-- <a href='http://movie.douban.com/subject/1887455/' target='_blank'>[想看]足迹</a> - 2021-08-25
-- <a href='http://movie.douban.com/subject/2265778/' target='_blank'>[想看]重生男人</a> - 2021-08-25
 
 <!-- douban ends -->
 
