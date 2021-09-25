@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/11530367/' target='_blank'>[想读]梦书</a> - 2021-09-25
 - <a href='http://movie.douban.com/subject/34614665/' target='_blank'>[看过]静水城</a> - 2021-09-19
 - <a href='http://movie.douban.com/subject/6905169/' target='_blank'>[想看]我妻子的一切</a> - 2021-09-17
 - <a href='http://movie.douban.com/subject/1298898/' target='_blank'>[看过]暗战</a> - 2021-09-17
 - <a href='http://www.douban.com/game/26633072/' target='_blank'>[想玩]新手指南 The Beginner's Guide</a> - 2021-09-13
-- <a href='http://movie.douban.com/subject/4054577/' target='_blank'>[想看]初学者的终极指南</a> - 2021-09-13
 
 <!-- douban ends -->
 
