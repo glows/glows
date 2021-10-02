@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/33427962/' target='_blank'>[想读]差异与重复</a> - 2021-10-01
+- <a href='https://book.douban.com/subject/5396636/' target='_blank'>[想读]资本主义与精神分裂 （卷二）</a> - 2021-10-01
+- <a href='https://book.douban.com/subject/26899445/' target='_blank'>[想读]导读德勒兹与加塔利《千高原》</a> - 2021-10-01
+- <a href='https://book.douban.com/subject/25861814/' target='_blank'>[想读]尼采与哲学</a> - 2021-10-01
 - <a href='https://book.douban.com/subject/11530367/' target='_blank'>[想读]梦书</a> - 2021-09-25
-- <a href='http://movie.douban.com/subject/34614665/' target='_blank'>[看过]静水城</a> - 2021-09-19
-- <a href='http://movie.douban.com/subject/6905169/' target='_blank'>[想看]我妻子的一切</a> - 2021-09-17
-- <a href='http://movie.douban.com/subject/1298898/' target='_blank'>[看过]暗战</a> - 2021-09-17
-- <a href='http://www.douban.com/game/26633072/' target='_blank'>[想玩]新手指南 The Beginner's Guide</a> - 2021-09-13
 
 <!-- douban ends -->
 
