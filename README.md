@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/3441046/' target='_blank'>[看过]伦敦佬对抗活死人</a> - 2021-10-03
 - <a href='https://book.douban.com/subject/33427962/' target='_blank'>[想读]差异与重复</a> - 2021-10-01
 - <a href='https://book.douban.com/subject/5396636/' target='_blank'>[想读]资本主义与精神分裂 （卷二）</a> - 2021-10-01
 - <a href='https://book.douban.com/subject/26899445/' target='_blank'>[想读]导读德勒兹与加塔利《千高原》</a> - 2021-10-01
 - <a href='https://book.douban.com/subject/25861814/' target='_blank'>[想读]尼采与哲学</a> - 2021-10-01
-- <a href='https://book.douban.com/subject/11530367/' target='_blank'>[想读]梦书</a> - 2021-09-25
 
 <!-- douban ends -->
 
