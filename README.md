@@ -1,6 +1,6 @@
 ###
 
-Hi  
+👋 Hi  
 blog: [glows](https://glows.github.io)  
 contact [📫](duncyun@gmail.com)
 
