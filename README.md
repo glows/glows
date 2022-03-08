@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/35376457/' target='_blank'>[看过]爱情神话</a> - 2022-03-07
 - <a href='http://movie.douban.com/subject/1300135/' target='_blank'>[想看]消失的1945</a> - 2022-03-04
 - <a href='http://movie.douban.com/subject/1303542/' target='_blank'>[想看]石榴的颜色</a> - 2022-02-20
 - <a href='https://book.douban.com/subject/30259677/' target='_blank'>[想读]焚舟纪</a> - 2022-02-15
 - <a href='https://book.douban.com/subject/25953441/' target='_blank'>[想读]在巴洛克與禪之間尋找電影的空缺</a> - 2022-02-15
-- <a href='http://movie.douban.com/subject/1296091/' target='_blank'>[想看]无事生非</a> - 2022-02-13
 
 <!-- douban ends -->
 
