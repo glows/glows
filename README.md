@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!-- douban starts -->
 
 - <a href='http://movie.douban.com/subject/35809022/' target='_blank'>[看过]回到太空</a> - 2022-04-10
-- <a href='http://movie.douban.com/subject/35372415/' target='_blank'>[看过]誓不低头</a> - 2022-04-08
+- <a href='http://movie.douban.com/subject/35372415/' target='_blank'>[看过]套装</a> - 2022-04-08
 - <a href='http://movie.douban.com/subject/1440978/' target='_blank'>[看过]梦想者四夜</a> - 2022-03-26
 - <a href='http://movie.douban.com/subject/35376457/' target='_blank'>[看过]爱情神话</a> - 2022-03-07
 - <a href='http://movie.douban.com/subject/1300135/' target='_blank'>[想看]消失的1945</a> - 2022-03-04
