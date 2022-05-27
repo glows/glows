@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/3026572/' target='_blank'>[想看]世界尽头</a> - 2022-05-27
 - <a href='https://book.douban.com/subject/35873664/' target='_blank'>[想读]创作的基因</a> - 2022-05-21
 - <a href='https://book.douban.com/subject/1266422/' target='_blank'>[想读]可怕的对称</a> - 2022-05-21
 - <a href='https://book.douban.com/subject/1120886/' target='_blank'>[想读]黑洞与时间弯曲</a> - 2022-05-21
 - <a href='https://book.douban.com/subject/26358818/' target='_blank'>[想读]费希特文集（第一卷）</a> - 2022-05-18
-- <a href='https://book.douban.com/subject/25939476/' target='_blank'>[想读]存在与时间</a> - 2022-05-14
 
 <!-- douban ends -->
 
