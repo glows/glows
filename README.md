@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/34988532/' target='_blank'>[想读]成为作家</a> - 2022-05-31
 - <a href='https://book.douban.com/subject/27176880/' target='_blank'>[想读]码书</a> - 2022-05-28
 - <a href='https://book.douban.com/subject/1395568/' target='_blank'>[想读]The Code Book</a> - 2022-05-28
 - <a href='http://movie.douban.com/subject/3026572/' target='_blank'>[想看]世界尽头</a> - 2022-05-27
 - <a href='https://book.douban.com/subject/35873664/' target='_blank'>[想读]创作的基因</a> - 2022-05-21
-- <a href='https://book.douban.com/subject/1266422/' target='_blank'>[想读]可怕的对称</a> - 2022-05-21
 
 <!-- douban ends -->
 
