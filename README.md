@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/21371175/' target='_blank'>[想读]罗杰疑案</a> - 2022-06-09
+- <a href='http://movie.douban.com/subject/6803494/' target='_blank'>[想看]极速风流</a> - 2022-06-09
+- <a href='http://movie.douban.com/subject/2132083/' target='_blank'>[想看]破坏欲</a> - 2022-06-09
+- <a href='http://movie.douban.com/subject/1299964/' target='_blank'>[想看]未来世界</a> - 2022-06-09
 - <a href='http://movie.douban.com/subject/1292052/' target='_blank'>[看过]肖申克的救赎</a> - 2022-06-02
-- <a href='https://book.douban.com/subject/34988532/' target='_blank'>[想读]成为作家</a> - 2022-05-31
-- <a href='https://book.douban.com/subject/27176880/' target='_blank'>[想读]码书</a> - 2022-05-28
-- <a href='https://book.douban.com/subject/1395568/' target='_blank'>[想读]The Code Book</a> - 2022-05-28
-- <a href='http://movie.douban.com/subject/3026572/' target='_blank'>[想看]世界尽头</a> - 2022-05-27
 
 <!-- douban ends -->
 
