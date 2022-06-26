@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/33427962/' target='_blank'>[最近]在读差异与重复</a> - 2022-06-25
 - <a href='http://movie.douban.com/subject/1293117/' target='_blank'>[想看]魔幻迷宫</a> - 2022-06-16
 - <a href='https://book.douban.com/subject/21371175/' target='_blank'>[想读]罗杰疑案</a> - 2022-06-09
 - <a href='http://movie.douban.com/subject/6803494/' target='_blank'>[想看]极速风流</a> - 2022-06-09
 - <a href='http://movie.douban.com/subject/2132083/' target='_blank'>[想看]破坏欲</a> - 2022-06-09
-- <a href='http://movie.douban.com/subject/1299964/' target='_blank'>[想看]未来世界</a> - 2022-06-09
 
 <!-- douban ends -->
 
