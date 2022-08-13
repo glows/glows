@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/26309270/' target='_blank'>[想看]更美好的事 第一季</a> - 2022-08-13
 - <a href='http://movie.douban.com/subject/1844198/' target='_blank'>[想看]日蚀的日子</a> - 2022-08-11
 - <a href='http://movie.douban.com/subject/1301342/' target='_blank'>[想看]风中奇缘</a> - 2022-07-29
 - <a href='http://movie.douban.com/subject/35185752/' target='_blank'>[想看]我的章鱼老师</a> - 2022-07-19
 - <a href='http://movie.douban.com/subject/26372545/' target='_blank'>[想看]野马</a> - 2022-07-03
-- <a href='http://movie.douban.com/subject/1291843/' target='_blank'>[看过]黑客帝国</a> - 2022-06-27
 
 <!-- douban ends -->
 
