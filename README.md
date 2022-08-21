@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/4146756/' target='_blank'>[想读]浮生取义</a> - 2022-08-20
 - <a href='http://movie.douban.com/subject/35235365/' target='_blank'>[看过]断·桥</a> - 2022-08-14
 - <a href='http://movie.douban.com/subject/1294693/' target='_blank'>[看过]荆轲刺秦王</a> - 2022-08-13
 - <a href='http://movie.douban.com/subject/26653833/' target='_blank'>[看过]生吃</a> - 2022-08-13
 - <a href='http://movie.douban.com/subject/1309027/' target='_blank'>[看过]罪恶之城</a> - 2022-08-13
-- <a href='http://movie.douban.com/subject/26701196/' target='_blank'>[看过]无主之作</a> - 2022-08-13
 
 <!-- douban ends -->
 
