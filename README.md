@@ -4,7 +4,7 @@
 blog: [glows](https://glows.github.io)  
 contact [📫](duncyun@gmail.com)
 
-
+<!-- location = 'Shenzhen, CH';  -->
 ```javascript
 import SoftwareDeveloper from 'steven';
 import { Languages, Frameworks } from 'steven/skills';
@@ -12,7 +12,6 @@ import { Languages, Frameworks } from 'steven/skills';
 class Bio extends SoftwareDeveloper {
   name     = 'Steven Luo';
   title    = 'Software Developer';
-  location = 'Shenzhen, CH';
 }
 
 class Skills extends SoftwareDeveloper {
