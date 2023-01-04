@@ -5,6 +5,24 @@ blog: [glows](https://glows.github.io)
 contact [📫](duncyun@gmail.com)
 
 
+```javascript
+import SoftwareDeveloper from 'steven';
+import { Languages, Frameworks } from 'steven/skills';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Steven Luo';
+  title    = 'Software Developer';
+  location = 'Shenzhen, CH';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'TypeScript', 'Python', ...Languages];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['Vue', 'React', 'Next.js', 'Nest.js', ...Frameworks];
+}
+
+```
+
 <!--
 **glows/glows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
