@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/26117522/' target='_blank'>[想读]魔山</a> - 2023-04-08
 - <a href='http://movie.douban.com/subject/1296805/' target='_blank'>[想看]无语问苍天</a> - 2023-03-25
 - <a href='https://book.douban.com/subject/1442040/' target='_blank'>[读过]麦田里的守望者</a> - 2023-03-10
 - <a href='https://book.douban.com/subject/30475896/' target='_blank'>[想读]Taking the Work Out of Networking</a> - 2023-02-26
 - <a href='http://movie.douban.com/subject/25868125/' target='_blank'>[想看]穿靴子的猫2</a> - 2023-01-27
-- <a href='http://movie.douban.com/subject/35423787/' target='_blank'>[想看]光之帝国</a> - 2023-01-27
 
 <!-- douban ends -->
 
