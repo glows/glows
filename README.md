@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/1292857/' target='_blank'>[想看]冲突</a> - 2023-06-27
 - <a href='http://movie.douban.com/subject/1292332/' target='_blank'>[看过]移魂都市</a> - 2023-06-25
 - <a href='http://movie.douban.com/subject/1299560/' target='_blank'>[想看]深渊</a> - 2023-06-25
 - <a href='http://movie.douban.com/subject/1303447/' target='_blank'>[想看]火星任务</a> - 2023-06-25
 - <a href='https://book.douban.com/subject/1770019/' target='_blank'>[想读]Sarah Kane</a> - 2023-06-07
-- <a href='http://movie.douban.com/subject/1303278/' target='_blank'>[想看]大亨游戏</a> - 2023-06-02
 
 <!-- douban ends -->
 
