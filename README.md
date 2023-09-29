@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='https://book.douban.com/subject/33457334/' target='_blank'>[想读]丘吉尔：第二次世界大战回忆录</a> - 2023-09-29
+- <a href='http://movie.douban.com/subject/26650021/' target='_blank'>[想看]惊异传奇</a> - 2023-09-29
 - <a href='https://book.douban.com/subject/36402566/' target='_blank'>[想读]生活世界中的功利主义</a> - 2023-09-21
 - <a href='https://book.douban.com/subject/10828007/' target='_blank'>[想读]资本主义与社会民主</a> - 2023-09-21
 - <a href='https://book.douban.com/subject/3215716/' target='_blank'>[想读]西方历史思想经典选读</a> - 2023-09-21
-- <a href='http://movie.douban.com/subject/1296646/' target='_blank'>[想看]诺斯费拉图：夜晚的幽灵</a> - 2023-09-14
-- <a href='http://movie.douban.com/subject/3418187/' target='_blank'>[想看]克洛伊</a> - 2023-08-30
 
 <!-- douban ends -->
 
