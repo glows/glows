@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/30288638/' target='_blank'>[想看]仲夏夜惊魂</a> - 2023-10-21
+- <a href='http://movie.douban.com/subject/26762269/' target='_blank'>[想看]90年代中期</a> - 2023-10-21
+- <a href='http://movie.douban.com/subject/26933588/' target='_blank'>[看过]圣母</a> - 2023-10-21
 - <a href='http://movie.douban.com/subject/34884712/' target='_blank'>[看过]不要抬头</a> - 2023-10-19
 - <a href='http://movie.douban.com/subject/34447553/' target='_blank'>[看过]世界上最糟糕的人</a> - 2023-10-19
-- <a href='https://book.douban.com/subject/33457334/' target='_blank'>[想读]丘吉尔：第二次世界大战回忆录</a> - 2023-09-29
-- <a href='http://movie.douban.com/subject/26650021/' target='_blank'>[想看]惊异传奇</a> - 2023-09-29
-- <a href='https://book.douban.com/subject/36402566/' target='_blank'>[想读]生活世界中的功利主义</a> - 2023-09-21
 
 <!-- douban ends -->
 
