@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/1292733/' target='_blank'>[想看]黑水仙</a> - 2024-02-04
 - <a href='http://movie.douban.com/subject/1298272/' target='_blank'>[看过]地下情</a> - 2024-01-12
 - <a href='https://book.douban.com/subject/25757173/' target='_blank'>[想读]全球化</a> - 2023-12-30
 - <a href='http://movie.douban.com/subject/2302211/' target='_blank'>[看过]白色物质</a> - 2023-12-22
 - <a href='https://book.douban.com/subject/25986829/' target='_blank'>[想读]威廉·夏伊勒的二十世纪之旅</a> - 2023-12-02
-- <a href='https://book.douban.com/subject/27598715/' target='_blank'>[想读]汉密尔顿传</a> - 2023-12-02
 
 <!-- douban ends -->
 
