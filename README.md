@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
-- <a href='http://movie.douban.com/subject/4180445/' target='_blank'>[看过]双宝斗恶魔</a> - 2024-09-15
-- <a href='http://movie.douban.com/subject/1947078/' target='_blank'>[想看]日出英烈祠</a> - 2024-09-05
-- <a href='http://movie.douban.com/subject/1300618/' target='_blank'>[想看]空中监狱</a> - 2024-06-12
-- <a href='http://movie.douban.com/subject/4014405/' target='_blank'>[想看]狂暴飞车</a> - 2024-06-12
-- <a href='http://movie.douban.com/subject/1298354/' target='_blank'>[想看]蛇眼</a> - 2024-06-12
+- <a href='http://movie.douban.com/subject/3074482/' target='_blank'>[想看]死亡医生</a> - 2024-09-30
+- <a href='http://movie.douban.com/subject/1309160/' target='_blank'>[想看]机械师</a> - 2024-09-30
+- <a href='http://movie.douban.com/subject/1438066/' target='_blank'>[想看]隐藏摄像机</a> - 2024-09-30
+- <a href='http://movie.douban.com/subject/33464312/' target='_blank'>[想看]八月处子</a> - 2024-09-30
+- <a href='http://movie.douban.com/subject/24872189/' target='_blank'>[想看]托尼·厄德曼</a> - 2024-09-30
 
 <!-- douban ends -->
 
