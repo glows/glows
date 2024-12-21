@@ -62,11 +62,7 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
-- <a href='http://movie.douban.com/subject/1297650/' target='_blank'>[看过]越空狂龙</a> - 2024-12-01
-- <a href='https://book.douban.com/subject/1003533/' target='_blank'>[想读]反复</a> - 2024-11-21
-- <a href='https://book.douban.com/subject/26320201/' target='_blank'>[想读]罗伯-格里耶访谈录</a> - 2024-11-21
-- <a href='http://movie.douban.com/subject/4935242/' target='_blank'>[想看]焦土之城</a> - 2024-10-17
-- <a href='http://movie.douban.com/subject/3074482/' target='_blank'>[想看]死亡医生</a> - 2024-09-30
+
 
 <!-- douban ends -->
 
