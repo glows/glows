@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
-- <a href='https://book.douban.com/subject/26451505/' target='_blank'>[想读]伯罗奔尼撒战争</a> - 2024-12-28
-- <a href='http://movie.douban.com/subject/1297650/' target='_blank'>[看过]越空狂龙</a> - 2024-12-01
-- <a href='https://book.douban.com/subject/1003533/' target='_blank'>[想读]反复</a> - 2024-11-21
-- <a href='https://book.douban.com/subject/26320201/' target='_blank'>[想读]罗伯-格里耶访谈录</a> - 2024-11-21
-- <a href='http://movie.douban.com/subject/4935242/' target='_blank'>[想看]焦土之城</a> - 2024-10-17
+- <a href='http://movie.douban.com/subject/1292349/' target='_blank'>[看过]阿拉伯的劳伦斯</a> - 2024-12-30
+- <a href='http://movie.douban.com/subject/1297105/' target='_blank'>[看过]陆上行舟</a> - 2024-12-30
+- <a href='http://movie.douban.com/subject/27008551/' target='_blank'>[看过]心灵猎人 第二季</a> - 2024-12-30
+- <a href='http://movie.douban.com/subject/26926437/' target='_blank'>[看过]追缉：炸弹客 第一季</a> - 2024-12-30
+- <a href='http://movie.douban.com/subject/1302827/' target='_blank'>[看过]人工智能</a> - 2024-12-30
 
 <!-- douban ends -->
 
