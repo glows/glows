@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 <tb valign="top" width="50%">
 <!-- douban starts -->
 
+- <a href='http://movie.douban.com/subject/34849188/' target='_blank'>[想看]太空孤航</a> - 2025-02-27
+- <a href='http://movie.douban.com/subject/26553290/' target='_blank'>[想看]太空生活</a> - 2025-02-27
 - <a href='http://movie.douban.com/subject/10748498/' target='_blank'>[想看]汉娜·阿伦特</a> - 2025-02-23
 - <a href='http://movie.douban.com/subject/25977083/' target='_blank'>[想看]欲动</a> - 2025-02-21
 - <a href='https://book.douban.com/subject/37054102/' target='_blank'>[想读]做难而正确的事</a> - 2025-02-20
-- <a href='http://movie.douban.com/subject/35268501/' target='_blank'>[想看]乘船而去</a> - 2025-02-20
-- <a href='http://movie.douban.com/subject/2032143/' target='_blank'>[想看]东京奏鸣曲</a> - 2025-02-20
 
 <!-- douban ends -->
 
